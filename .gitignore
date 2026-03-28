@@ -1,0 +1,22 @@
+# Playwright
+.playwright-mcp/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude
+.claude/
+
+# IDE
+.idea/
+*.swp
+*.swo
+.vscode/
+
+# Logs
+*.log
+
+# Node
+node_modules/
